@@ -1,4 +1,4 @@
-//Tran Thi Nhu Quynh 20205122
+
 
 #include<stdio.h>
 
